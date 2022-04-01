@@ -1,0 +1,30 @@
+PODS:
+  - CalculateCalendarLogic (0.5.0)
+  - Parchment (3.2.0)
+  - SDWebImage (5.12.5):
+    - SDWebImage/Core (= 5.12.5)
+  - SDWebImage/Core (5.12.5)
+  - SDWebImageSwiftUI (2.0.2):
+    - SDWebImage (~> 5.10)
+
+DEPENDENCIES:
+  - CalculateCalendarLogic
+  - Parchment
+  - SDWebImageSwiftUI
+
+SPEC REPOS:
+  trunk:
+    - CalculateCalendarLogic
+    - Parchment
+    - SDWebImage
+    - SDWebImageSwiftUI
+
+SPEC CHECKSUMS:
+  CalculateCalendarLogic: d14189787cd47766e64281b2686608afea07ae4d
+  Parchment: a43c440b22c8a60f7e0196b74339446d4d1d18ea
+  SDWebImage: 0905f1b7760fc8ac4198cae0036600d67478751e
+  SDWebImageSwiftUI: 8a3923c95108312b03a599ec1498754af55a6819
+
+PODFILE CHECKSUM: 4a8d3158cc13592b00089e0b79de9eca35187955
+
+COCOAPODS: 1.11.2
